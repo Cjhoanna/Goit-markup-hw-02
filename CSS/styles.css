@@ -1,10 +1,44 @@
-h1 { 
-    color: blue;
+.main_title {
+  color: #2196f3;
+  font-family: "Raleway";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 26px;
+  line-height: 31px;
 }
-h3{
-    color:rgb(82, 82, 252)studio 
+.subtitle1 {
+  color: #2196f3;
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 14px;
+  line-height: 16px;
 }
-p{
-   color: rgb(185, 190, 190);info@devstudio.com
-   color: rgb(185, 190, 190);+1 212-772-4150    
+.subtitle2 {
+  color: #212121;
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 14px;
+  line-height: 16px;
+}
+.email {
+  color: #757575;
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 14px;
+  line-height: 16px;
+}
+.number {
+  color: #757575;
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 14px;
+  line-height: 16px;
+}
+
+p {
+  color: rgb(185, 190, 190);
 }
