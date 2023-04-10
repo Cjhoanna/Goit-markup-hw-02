@@ -1,3 +1,4 @@
+
 .main_title {
   color: #2196f3;
   font-family: "Raleway";
@@ -6,15 +7,7 @@
   font-size: 26px;
   line-height: 31px;
 }
-.subtitle1 {
-  color: #2196f3;
-  font-family: "Roboto";
-  font-style: normal;
-  font-weight: 500;
-  font-size: 14px;
-  line-height: 16px;
-}
-.subtitle2 {
+.subtitle {
   color: #212121;
   font-family: "Roboto";
   font-style: normal;
@@ -40,27 +33,27 @@
   font-size: 14px;
   line-height: 16px;
 }
-.page {
+.section_page {
   color: #ffffff;
   font-family: "Roboto";
   font-style: normal;
   font-weight: 200;
   font-size: 40px;
-  position: absolute;
   width: 1600px;
-  height: 70px;
+ 
   left: -4px;
   top: 165px;
   background: #2f303a;
+  margin:0 ;
 }
 .push {
   color: #ffffff;
-  position: absolute;
   width: 261px;
   height: 30px;
-  left: -4px;
-  top: 240px;
   background: #2196f3;
+}
+.section_list{
+    list-style: none;
 }
 .atention {
   color: #757575;
@@ -68,7 +61,7 @@
   font-style: normal;
   font-weight: 700;
   font-size: 16px;
-  line-height: 126px;
+  line-height: 20px;
 }
 .text {
   color: #757575;
@@ -76,17 +69,9 @@
   font-style: normal;
   font-weight: 400;
   font-size: 14px;
-  line-height: -90px;
-}
-.exactly {
-  color: #757575;
-  font-family: "Roboto";
-  font-style: normal;
-  font-weight: 700;
-  font-size: 14px;
   line-height: 16px;
 }
-.text2 {
+.exactly {
   color: #757575;
   font-family: "Roboto";
   font-style: normal;
@@ -102,23 +87,7 @@
   font-size: 14px;
   line-height: 16px;
 }
-.text3 {
-  color: #757575;
-  font-family: "Roboto";
-  font-style: normal;
-  font-weight: 700;
-  font-size: 14px;
-  line-height: 16px;
-}
 .computer {
-  color: #757575;
-  font-family: "Roboto";
-  font-style: normal;
-  font-weight: 700;
-  font-size: 14px;
-  line-height: 16px;
-}
-.text4 {
   color: #757575;
   font-family: "Roboto";
   font-style: normal;
@@ -140,7 +109,7 @@
   font-style: normal;
   font-weight: 700;
   font-size: 36px;
-  line-height: 42px;
+  line-height: 16px;
 }
 .Christopher {
   color: #757575;
@@ -215,14 +184,16 @@
   line-height: 31px;
   background: #2f303a;
 }
+.address_paragraph{
+    margin: 0;
+}
 .black {
     color: #757575;
   font-family: "Roboto";
   font-style: normal;
   font-weight: 400;
   font-size: 14px;
-  line-height: 24px;
-}
+  }
 .email {
     text-decoration: none;
     color: #757575;
@@ -230,6 +201,5 @@
     font-style: normal;
     font-weight: 500;
     font-size: 14px;
-    line-height: 16px;
-  }
+    }
 
